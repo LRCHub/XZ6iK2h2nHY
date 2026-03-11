@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DDD",
+  "base_artist": "Reol",
+  "createdAt": "2026-03-11T06:20:39.776751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DDD",
+      "artist": "Machinedrum",
+      "has_synced": false,
+      "path": "select/01_DDD_Machinedrum.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DDD",
+      "artist": "EXID",
+      "has_synced": true,
+      "path": "select/02_DDD_EXID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DDD JPN Ver.",
+      "artist": "EXID",
+      "has_synced": true,
+      "path": "select/03_DDD_JPN_Ver._EXID.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DDD (JPN ver.)",
+      "artist": "EXID",
+      "has_synced": true,
+      "path": "select/04_DDD_(JPN_ver.)_EXID.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ddd Initial D (My Car Is Fantasy)",
+      "artist": "Mega Nrg Man",
+      "has_synced": true,
+      "path": "select/05_Ddd_Initial_D_(My_Car_Is_Fantasy)_Mega_Nrg_Man.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DDD Initial D (My Car Is Fantasy)",
+      "artist": "Mega NRG Man",
+      "has_synced": true,
+      "path": "select/06_DDD_Initial_D_(My_Car_Is_Fantasy)_Mega_NRG_Man.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DDD [덜덜덜]",
+      "artist": "EXID",
+      "has_synced": true,
+      "path": "select/07_DDD_[덜덜덜]_EXID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DDD",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/08_DDD_Reol.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DDD",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/09_DDD_Reol.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ddd",
+      "artist": "Don Bigg feat. ElGrandeToto",
+      "has_synced": false,
+      "path": "select/10_Ddd_Don_Bigg_feat._ElGrandeToto.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ddd",
+      "artist": "Don Bigg, ElGrandeToto",
+      "has_synced": false,
+      "path": "select/11_Ddd_Don_Bigg,_ElGrandeToto.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DDD (feat. Hornet La Frappe)",
+      "artist": "Soso Maness feat. Hornet La Frappe",
+      "has_synced": true,
+      "path": "select/12_DDD_(feat._Hornet_La_Frappe)_Soso_Maness_feat._Hornet_La_Frappe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DDD (feat. Hornet La Frappe)",
+      "artist": "Soso Maness",
+      "has_synced": true,
+      "path": "select/13_DDD_(feat._Hornet_La_Frappe)_Soso_Maness.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ddd",
+      "artist": "Wallpaper.",
+      "has_synced": false,
+      "path": "select/14_ddd_Wallpaper..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DDD",
+      "artist": "ElGrandeToto",
+      "has_synced": true,
+      "path": "select/15_DDD_ElGrandeToto.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ĐĐĐ",
+      "artist": "Wren Evans feat. itsnk",
+      "has_synced": true,
+      "path": "select/16_ĐĐĐ_Wren_Evans_feat._itsnk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ĐĐĐ",
+      "artist": "Wren Evans",
+      "has_synced": true,
+      "path": "select/17_ĐĐĐ_Wren_Evans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DDD",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_DDD_Reol.txt"
+    }
+  ]
+}
